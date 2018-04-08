@@ -1,0 +1,5 @@
+Name: generate-ninja
+URL: https://github.com/o-lim/generate-ninja
+Version: v0.3.2
+License: LICENSE
+Description: GN, a meta-build system that generates Ninja build files
