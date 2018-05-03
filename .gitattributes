@@ -1,3 +1,5 @@
 libclang-win/libclang-win-6.0.0.tar.xz filter=lfs diff=lfs merge=lfs -text
 gn/gn-win-0.3.2.tar.xz filter=lfs diff=lfs merge=lfs -text
 gn/gn-linux-0.3.2.tar.xz filter=lfs diff=lfs merge=lfs -text
+ninja-build/ninja-win-1.8.2.tar.xz filter=lfs diff=lfs merge=lfs -text
+ninja-build/ninja-linux-1.8.2.tar.xz filter=lfs diff=lfs merge=lfs -text

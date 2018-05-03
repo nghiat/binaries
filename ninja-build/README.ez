@@ -1,0 +1,5 @@
+Name: ninja-build
+URL: https://github.com/ninja-build/ninja
+Version: v1.8.2
+License: Apache License 2.0
+Description: Ninja is a small build system with a focus on speed.
